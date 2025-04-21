@@ -53,5 +53,5 @@ SMART AI BOT is a modern web application that interacts with users through an AI
 ![image alt](https://github.com/Shivam-Jaiswal-bot/SMART-AI-BOT/blob/0f1436bc040eff721840145b8ac5ae5271a972cc/1.jpg)
 ![image alt](https://github.com/Shivam-Jaiswal-bot/SMART-AI-BOT/blob/a23d652ce5cbf42fe6457a993a146c2e29038e01/2.jpg)
 ![image alt](https://github.com/Shivam-Jaiswal-bot/SMART-AI-BOT/blob/4f0d9766da0ce6814c368e9885aa41a768452d2e/3.jpg)
-![image alt]()
+![image alt](https://github.com/Shivam-Jaiswal-bot/SMART-AI-BOT/blob/d0d03dc56e1a2dc6ed44b90d6be004019fae79de/4.jpg)
 

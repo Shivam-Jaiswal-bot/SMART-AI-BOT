@@ -49,7 +49,9 @@ SMART AI BOT is a modern web application that interacts with users through an AI
     npm run build
 
 
-   
 📸 Screenshots
-
+![image alt](https://github.com/Shivam-Jaiswal-bot/SMART-AI-BOT/blob/0f1436bc040eff721840145b8ac5ae5271a972cc/1.jpg)
+![image alt]()
+![image alt]()
+![image alt]()
 

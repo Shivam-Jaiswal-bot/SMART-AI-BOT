@@ -1,12 +1,55 @@
-# React + Vite
+# 🤖 SMART AI BOT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive AI chatbot web app built with React and integrated with the Gemini API to deliver intelligent conversations in real-time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Description
 
-## Expanding the ESLint configuration
+SMART AI BOT is a modern web application that interacts with users through an AI-powered chat interface. It fetches intelligent responses from Google's Gemini API and provides a smooth, mobile-friendly user experience using modern React tools and styling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🔁 Real-time AI responses using Gemini API
+- 🔀 Multiple routes/pages with React Router
+- 📦 State management using React Context API
+- 📋 Form input with validation
+- 💬 Props, conditional rendering, lists, and controlled components
+- 🌐 Fully responsive design (Mobile + Desktop)
+- 📁 Clean folder structure and reusable components
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** React.js (Functional Components + Hooks)
+- **Routing:** React Router
+- **State Management:** React Context API
+- **Styling:** Tailwind CSS
+- **Version Control:** Git & GitHub
+- **API:** Gemini AI API (or mock API alternative)
+
+---
+
+## 🚀 Setup Instructions
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/Shivam-Jaiswal-bot/SMART-AI-BOT.git
+   cd SMART-AI-BOT
+2. Install dependencies:
+    npm install
+3.Set up environment variables: Create a .env file in the root and add:
+    VITE_GEMINI_API_KEY=your_api_key_here
+4.Start the development server:
+    npm run dev
+5.Build for production:
+    npm run build
+
+
+   
+📸 Screenshots
+
+
